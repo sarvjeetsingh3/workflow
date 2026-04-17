@@ -8,3 +8,5 @@ jobs:
     steps:
       - name: Print message
         run: echo "Hello GitHub Action"
+        - name: Print message
+  run: echo "Hello from Pull Request 🚀"
